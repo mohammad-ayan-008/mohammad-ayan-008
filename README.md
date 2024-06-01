@@ -9,7 +9,7 @@
 </div>
 ### Aslamoalekum 
 
-I'm Mohammad Ayan, an Android developer  and  a. Java Developer from India.
+I'm Mohammad Ayan, an Android developer  and  A Java Developer from India.
 
 #### GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=mohammad-ayan-008&theme=onedark&hide_border=false&count_private=true)<br/>
