@@ -1,10 +1,17 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
+<a href="https://in.linkedin.com/in/mohammad-ayan-5921a7250">
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ </a>
+  <a href="https://in.linkedin.com/in/mohammad-ayan-5921a7250](https://youtube.com/@a_dev6696?si=wJFsVkYR4IzZNRg0">
+    
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+<a href="https://x.com/AyanAfaq92477">
+  
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 </div>
 ### Aslamoalekum 
