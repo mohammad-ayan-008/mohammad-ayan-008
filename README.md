@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<a href="https://in.linkedin.com/in/mohammad-ayan-5921a7250">
 <div id="badges">
+  <a href="https://in.linkedin.com/in/mohammad-ayan-5921a7250">
+    
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
   <a href="https://in.linkedin.com/in/mohammad-ayan-5921a7250](https://youtube.com/@a_dev6696?si=wJFsVkYR4IzZNRg0">
