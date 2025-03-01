@@ -24,6 +24,6 @@ I'm Mohammad Ayan, an Android developer  and  A Java Backend Developer from Indi
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=itsaky&theme=onedark&hide_border=false)<br/>
 
 #### Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-ayan-008&theme=onedarklayout=compact&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-ayan-008&theme=onedark&layout=compact&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=mohammad-ayan-008&color=2196f3)
